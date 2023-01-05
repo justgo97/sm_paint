@@ -1,0 +1,1 @@
+sm_paint (+USE Paint plugin)
